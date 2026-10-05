@@ -40,4 +40,6 @@ Folder `p02` di repository `pt-NPM` berisi `sinilai_v01.cpp`, dan  `README.md`. 
 
 ## Deklarasi AI
 
-Tuliskan AI yang digunakan, prompt, dan umpan balik AI
+AI yang digunnakan : GPT
+Prompt : Periksa code di atas apakah sudah benar atau ada yang harus ditambahkan
+Umpan Balik : Setelah saya periksa dari gambar, kode SiNilai v0.1 kamu sudah benar dan secara sintaks C++ tidak terlihat ada kesalahan. Susunan variabel, input, dan output sudah sesuai dengan tujuan program.
